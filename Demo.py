@@ -1,0 +1,1 @@
+print("Welcome to Visual Studio Code IDE");
